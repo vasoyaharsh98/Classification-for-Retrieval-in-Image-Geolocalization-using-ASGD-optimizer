@@ -16,5 +16,5 @@ We obtained the following results from testing on the given datasets:
 ![](images/results.png)
 ## Proposed extension. 
 We used ASGD as an optimizer in place of Adam. We obtained the following results during the training phase:
-![](images/ASG_R5.png)
+![](images/ASGD_R5.png)
 
