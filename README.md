@@ -9,7 +9,8 @@ for training (SF-XS train), validation (SF-XS val) and testing (SF-XS test).
 
 - Tokyo eXtra Small (Tokyo-XS): a subset of the Tokyo dataset. This is used
 only for testing.
-The datasets are available [at this link]([https://www.google.com](https://drive.google.com/drive/folders/1Ucy9JONT26EjDAjIJFhuL9qeLxgSZKmf))
+
+The datasets are available [at this link](https://drive.google.com/drive/folders/1Ucy9JONT26EjDAjIJFhuL9qeLxgSZKmf)
 
 ## Experiments:
 We obtained the following results from testing on the given datasets:
