@@ -17,6 +17,7 @@ We obtained the following results from testing on the given datasets:
 ![](images/results.png)
 ## Proposed extension. 
 We used ASGD as an optimizer in place of Adam. We obtained the following results during the training phase:
+For further details it is recommended to checkout the [logs folder](CosPlace/logs/default)
 
 ![](images/ASGD_R5.png)
 
