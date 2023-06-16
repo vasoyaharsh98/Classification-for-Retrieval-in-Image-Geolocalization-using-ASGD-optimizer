@@ -1,0 +1,10 @@
+Query path:
+/content/sf_xs/test/queries/@0551572.87@4180521.43@10@S@037.77057@-122.41441@51176920792@@@@@@20210514@@.jpg
+
+Predictions paths:
+/content/sf_xs/test/database/@0546315.72@4181681.60@10@S@037.78131@-122.47403@3w9v3MrG7tSkCNXNt74_ow@@236@@@@201311@@.jpg
+/content/sf_xs/test/database/@0550215.54@4183915.76@10@S@037.80124@-122.42959@WikyiCLxMVMDtuTnUbTamQ@@230@@@@201311@@.jpg
+/content/sf_xs/test/database/@0550351.33@4180713.36@10@S@037.77237@-122.42827@_CuUKEUvHH-KqvmP9FEZVw@@321@@@@201312@@.jpg
+
+Positives paths:
+
